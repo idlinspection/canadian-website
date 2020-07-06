@@ -1,0 +1,16 @@
+[26/Jun/2020:18:25:51] (I): WordPress Instance Info:
+[26/Jun/2020:18:25:51] (I): Home URL : http://localhost:1234/canadianinspection
+[26/Jun/2020:18:25:51] (I): Site URL : http://localhost:1234/canadianinspection
+[26/Jun/2020:18:25:51] (I): WordPress Version : 5.4.2
+[26/Jun/2020:18:25:51] (I): Onboarding Version : 1.0.1
+[26/Jun/2020:18:25:51] (I): Multisite : No
+[26/Jun/2020:18:25:51] (I): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.7
+[26/Jun/2020:18:25:51] (I): PHP Version : 7.4.7
+[26/Jun/2020:18:25:51] (I): HTTPS : No
+[26/Jun/2020:18:25:51] (I): PHP Max Execution Time : 120
+[26/Jun/2020:18:25:51] (I): PHP Max Input Vars : 1000
+[26/Jun/2020:18:25:51] (I): Max Upload Size : 41943040
+[26/Jun/2020:18:25:51] (I): Plugins:
+[26/Jun/2020:18:25:51] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.5 (ThemeIsle)
+[26/Jun/2020:18:25:51] (I): [PLUGIN] Orbit Fox Companion : v2.9.10 (Themeisle)
+[26/Jun/2020:18:25:51] (I): [PLUGIN] WPForms Lite : v1.6.1 (WPForms)
